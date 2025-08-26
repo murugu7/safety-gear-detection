@@ -1,0 +1,6 @@
+train: D:/AAA/Dataset/images/train
+val: D:/AAA/Dataset/images/train
+
+nc: 6
+
+names: ['helmet', 'apron', 'gloves', 'no helmet', 'no apron', 'no gloves']
